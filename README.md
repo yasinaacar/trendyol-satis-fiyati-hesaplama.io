@@ -10,3 +10,5 @@ Trendyol firması komisyon ücretini satış fiyatı üstünden almaktadır. İ�
 Hesaplama Formülü:
 
 Satış Fiyatı=(satış fiyatı X komisyon oranı)+(kargo+(maliyet+(maliyet X kâr oranı)))
+
+Uygulama Linki: https://yasinaacar.github.io/trendyol-satis-fiyati-hesaplama.io/
